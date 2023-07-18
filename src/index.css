@@ -1,0 +1,220 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+  .navegacion {
+    
+      background-image: url(https://img.freepik.com/vector-premium/rollo-sushi-japones-conjunto-patrones-fisuras-estilo-fideos-dibujados-mano-comida-asiatica-menu-restaurantes_514409-2342.jpg?w=2000);
+      background-position: center center;
+      background-size:contain;
+      text-align: center; 
+      width: 100%;
+      margin-right: auto;
+      margin-left: auto;
+      font-size: 1rem;
+      outline: none;
+      padding-bottom: 1rem;
+      padding-top: 1rem;
+  }
+
+  .navegacion img {
+    
+    margin-inline: 30%;
+      
+  }
+                  .iniciocarrito a {
+                  text-decoration: none;
+                  color: rgb(255, 123, 0);
+                  font-size: 130%;
+                  font-family: fantasy;
+                  vertical-align: middle;
+              }
+              
+              .iniciocarrito img {
+                  margin-left: 3%;
+                  margin-inline: 1%;
+                  
+              }
+
+              p {
+                margin-top: 5%;
+               text-align: center;
+               font-size: 5rem;
+               background-color: #213547;
+               margin-top: 2%;
+              text-decoration: none;
+              color: #f9f9f9;
+              }
+
+              .menu {
+    
+                background-image: url(https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/games_6/nintendo_switch_7/nswitch_splatoon2_v2/CI_NSwitch_Splatoon2_HeroMode_Background_Grey_Arrows.png);
+                background-position: center center;
+                text-align: center; 
+                width: 100%;
+                margin-right: auto;
+                margin-left: auto;
+                font-size: 1rem;
+                outline: none;
+                padding-bottom: 1rem;
+                padding-top: 1rem;
+            }
+                      
+:root {
+ 
+  text-align: center; 
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.53;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+
+h1 {
+  font-size: 2em;
+  line-height: 1.2;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  border-color: #000000;
+  background-color: #8a20bb;
+  
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #000000;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+.footer-top section {
+  text-align: center;
+  }
+
+  .footer-top nav{
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 10px;
+      margin-right: 5%;
+      margin-left: 5%;
+      
+  }          
+
+.crearye a{
+      font-size: 120%;
+      
+  }
+
+  .crearye label{
+      margin-top: 20%;
+      font-size: 150%;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .titulo:hover{
+      color: rgb(236, 221, 8);
+      text-decoration: none;
+                  
+  }
+
+  .titulo {
+      
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      display: inline;
+      margin-top: 10%;
+      margin-bottom: 2%;
+      font-size: 15px;
+      text-decoration: none;
+      color: black;
+      
+      
+  }
+
+  .footer-top a{
+      list-style: none;
+  }
+  
+  .footer-bottom{
+      background-color: rgb(7, 1, 78);
+  }
+
+  .footer-bottom li {                                     
+      display: inline;
+      
+      
+  }
+
+  .footer-bottom li a{
+      list-style: none;
+      text-decoration: none;
+      color: white;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      vertical-align: middle;
+      margin-left: 8%;
+      
+      
+  }
+
+  .footer-end{
+      background-color: rgb(0, 0, 0);
+      padding: 5px 5px 5px 5px;
+  }
+
+  .footer-end li label{
+      text-align: center;
+      list-style: none;
+      text-decoration: none;
+      color: white;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      
+  }
+
+  .footer-end li {                                     
+      display: inline;
+  
+  }
