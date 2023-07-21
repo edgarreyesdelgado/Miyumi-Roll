@@ -62,7 +62,7 @@ useEffect(()=>{
 
 <div class="p-5 mt-4 mb-4 bg-warning rounded-3">
 
-    <img height="320px" src="https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/360101046_801405178357621_1942157945254087298_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=806CH4Sm7cEAX9Q9ecJ&_nc_ht=scontent-qro1-1.xx&oh=00_AfBPtI3uOoqK24AdnikbxUurNZr3slBhM7_WcK7EQAanVQ&oe=64B9F5AE" class="rounded float-end text-center" alt="Responsive image" ></img>
+    <img height="320px" src="https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/360101046_801405178357621_1942157945254087298_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=GWPaVJzF0qUAX-VtVJy&_nc_ht=scontent-qro1-1.xx&oh=00_AfBlwsb-QWyPDgtBdc2tRxN95ICT-eFZwlpBaupSK6jhcQ&oe=64BFE46E" class="rounded float-end text-center" alt="Responsive image" ></img>
     <h2 class="col-md-8 fs-1 text-start">Bienvenidos a MIYUMI ROLL</h2>
     <hr />
     <br />
