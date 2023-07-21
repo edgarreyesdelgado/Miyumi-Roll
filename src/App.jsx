@@ -76,7 +76,7 @@ useEffect(()=>{
 <p>Nuestro menú</p>
 
 <div class="menu">
-    <img height="800px" src="https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/360089851_801530955011710_6291142074438417206_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=UlUmFcB7uAQAX-Ols4S&_nc_ht=scontent-qro1-2.xx&oh=00_AfAjHRc0taCMSoJLOilt-ILdLx3AOgWp39xOWOk5jUgeyA&oe=64BF094B" ></img>
+    <img height="1200px" src="https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/360089851_801530955011710_6291142074438417206_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=UlUmFcB7uAQAX-Ols4S&_nc_ht=scontent-qro1-2.xx&oh=00_AfAjHRc0taCMSoJLOilt-ILdLx3AOgWp39xOWOk5jUgeyA&oe=64BF094B" ></img>
   </div>
 
 
